@@ -7,6 +7,7 @@ locals {
     tags = {
         BuildBy = "terraform"
         Name = "scott user"
+        
     }
 }
 
