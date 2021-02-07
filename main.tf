@@ -5,9 +5,9 @@ provider "aws" {
 
 locals {
     tags = {
-        BuildBy = "terraform"
+        BuildBy = "terraform..."
         Name = "scott user"
-        
+
     }
 }
 
